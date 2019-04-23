@@ -1,3 +1,3 @@
-# Um bot que avisa quando tem show de alguma banda brasileira que escuto no Spotify no SESC
+# Um bot que avisa quando tem show no SESC de alguma banda brasileira que escuto no Spotify
 
 ## A ideia é essa mesma que você leu
